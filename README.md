@@ -57,4 +57,4 @@ enabled = true
 
 UIDVALIDITY 改变、状态损坏、SEARCH/FETCH 失败拒绝推进。待确认邮件被外部删除会阻塞该页，需人工核对迁移状态，不自动跳过。正文限制是 IMAP 编码字节；截断 MIME/字符可能出现替代字符，嵌套邮件不展开。邮件始终为不可信数据；下游模型须抵御提示注入，不执行正文指令、渲染 HTML 或打开链接。
 
-真实 QQ 及桌面插件安装尚未验收。见 [选型](docs/SELECTION.md)、[设计](DESIGN.md)、[审核范围](docs/SECURITY-REVIEW.md)。源码许可证待所有者确定；依赖保留各自许可证。
+真实 QQ 及桌面插件安装尚未验收。见 [选型](docs/SELECTION.md)、[设计](DESIGN.md)、[审核范围](docs/SECURITY-REVIEW.md)。源码采用 [MIT](LICENSE)，Copyright (c) 2026 zcweah1981；依赖保留各自许可证，见 [依赖许可核对](docs/DEPENDENCY-LICENSES.md)。
