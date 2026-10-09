@@ -1,0 +1,14 @@
+node_modules/
+.state/
+.env
+.env.*
+!.env.example
+*.log
+*.credential.xml
+credential.xml
+.codex/
+docs/IMPLEMENTATION.md
+docs/VERIFICATION.md
+docs/test-results.txt
+docs/check-results.txt
+docs/audit-results.json

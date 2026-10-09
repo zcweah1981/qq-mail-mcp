@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "qq-mail-readonly": {
+      "command": "node",
+      "args": [
+        "REPLACE_WITH_ABSOLUTE_PROJECT_PATH/src/index.mjs"
+      ],
+      "env": {
+        "QQ_MAIL_TRANSPORT": "stdio"
+      }
+    }
+  }
+}

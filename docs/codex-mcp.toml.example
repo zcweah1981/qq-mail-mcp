@@ -1,0 +1,10 @@
+# Replace the path; enable only after reviewing local setup. No secret values here.
+[mcp_servers.qq-mail-readonly]
+command = "node"
+args = ["REPLACE_WITH_ABSOLUTE_PROJECT_PATH/src/index.mjs"]
+env_vars = ["QQ_MAIL_ADDRESS", "QQ_MAIL_AUTH_CODE", "QQ_MAIL_STATE_DIR"]
+enabled = false
+
+# Windows DPAPI launcher alternative: use instead of the node entry above.
+# command = "pwsh"
+# args = ["-NoProfile", "-NonInteractive", "-File", "REPLACE_WITH_ABSOLUTE_PROJECT_PATH/scripts/start-secure.ps1"]

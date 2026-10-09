@@ -1,0 +1,10 @@
+{
+  "name": "qq-mail-readonly",
+  "version": "0.1.0",
+  "description": "私人 QQ 邮箱只读 MCP：状态、增量列表、搜索、读正文。",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "QQ 邮箱（只读）",
+    "shortDescription": "私人邮箱只读检索"
+  }
+}
