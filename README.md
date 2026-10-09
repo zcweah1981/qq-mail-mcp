@@ -4,6 +4,8 @@
 
 让 Codex 查询 QQ 收件箱、寻找邮件、按需阅读正文。凭据由你在本机录入，服务通过 stdio 运行。
 
+**[立即安装：Windows + Codex，三步完成](#windows-快速安装)** · 无需手改 TOML
+
 ![安装与数据流示意；非真实截图](docs/images/install.svg)
 
 > 配图只有占位内容，不是真实邮箱截图。源码已公开，尚未发布 npm 包、公共插件市场或官方 Registry。

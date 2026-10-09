@@ -4,6 +4,8 @@
 
 Search your QQ inbox, inspect summaries and read a selected message from Codex. Credentials are entered locally; the server uses stdio.
 
+**[Install on Windows + Codex](#recommended-windows-setup)** · No manual TOML editing
+
 ![Installation and data flow illustration, not a screenshot](docs/images/install.svg)
 
 The illustration contains placeholders. Source is public; there is no npm package, public plugin marketplace or official Registry listing.
