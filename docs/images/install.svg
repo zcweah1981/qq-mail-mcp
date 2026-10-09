@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460">
+<rect width="1100" height="460" rx="24" fill="#101827"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif" fill="#edf4ff">
+<text x="44" y="64" font-size="30" font-weight="700">QQ Mail × Codex · 只读助手</text>
+<text x="44" y="99" font-size="17" fill="#a9bbd1">示意 / Illustration · 占位内容，无真实邮件或凭据</text>
+<g fill="#1e3149" stroke="#405975"><rect x="44" y="130" width="300" height="130" rx="14"/><rect x="400" y="130" width="300" height="130" rx="14"/><rect x="756" y="130" width="300" height="130" rx="14"/></g>
+<text x="65" y="168" font-size="21">1 获取与安装 / Install</text>
+<text x="65" y="208" font-size="16">源码 → install.ps1</text><text x="65" y="238" font-size="16">预检 · 备份 · 注册插件</text>
+<text x="421" y="168" font-size="21">2 本机录入 / Credentials</text>
+<text x="421" y="208" font-size="16">configure-credentials.ps1</text><text x="421" y="238" font-size="16">隐藏输入 → Windows DPAPI</text>
+<text x="777" y="168" font-size="21">3 验证 / Verify</text>
+<text x="777" y="208" font-size="16">status.mjs → 4 tools</text><text x="777" y="238" font-size="16">显式连接检查 → reload Codex</text>
+<text x="356" y="205" font-size="28" fill="#73d6bb">→</text><text x="711" y="205" font-size="28" fill="#73d6bb">→</text>
+<path d="M70 301H1030" stroke="#405975"/>
+<text x="55" y="342" font-size="19">QQ IMAP 993 TLS → 本地 stdio 工具 → Codex / 模型服务</text>
+<text x="55" y="379" font-size="17" fill="#a9bbd1">EXAMINE / BODY.PEEK · 按需读取摘要和正文 · 无发信、删除、移动</text>
+<text x="55" y="418" font-size="17" fill="#ffd896">本地运行 ≠ 邮件永不离开设备 / Model responses may include email data</text>
+</g></svg>
