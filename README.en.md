@@ -60,6 +60,9 @@ Windows DPAPI encrypts the code at `%LOCALAPPDATA%/qq-mail-mcp/credential.xml`; 
 
 ## Update, uninstall and development
 
+See [CONTRIBUTING](CONTRIBUTING.md) for feedback and [SECURITY](SECURITY.md) for private vulnerability reports. This is an independent community implementation; see [distribution and directory eligibility](docs/DISTRIBUTION.md).
+
+
 ~~~powershell
 git pull --ff-only
 pwsh -NoProfile -File ./scripts/install.ps1

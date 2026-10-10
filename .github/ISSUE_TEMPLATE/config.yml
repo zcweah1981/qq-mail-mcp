@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private security report / 私密安全报告
+    url: https://github.com/zcweah1981/qq-mail-mcp/security/advisories/new
+    about: Report vulnerabilities privately; never include real credentials or mail.
+  - name: Installation troubleshooting / 安装排障
+    url: https://github.com/zcweah1981/qq-mail-mcp/blob/main/docs/INSTALL.md
+    about: Check supported versions and known installation problems first.

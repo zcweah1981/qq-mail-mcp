@@ -88,6 +88,9 @@ node ./scripts/status.mjs --check-connection
 
 ## 更新、卸载与贡献
 
+贡献和问题反馈见 [CONTRIBUTING](CONTRIBUTING.md)，漏洞请用 [私密安全报告](SECURITY.md)。本项目是独立社区实现；[分发与官方目录资格](docs/DISTRIBUTION.md)说明了本地版的范围。
+
+
 ~~~powershell
 git pull --ff-only
 pwsh -NoProfile -File ./scripts/install.ps1
